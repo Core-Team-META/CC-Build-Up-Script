@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 5568575188138883819
   Name: "Roaming Camera"
   PlatformAssetType: 5

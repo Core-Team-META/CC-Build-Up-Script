@@ -1,4 +1,4 @@
-﻿Name: "Spawns"
+Name: "Spawns"
 RootId: 15445705037976461651
 Objects {
   Id: 16813558807825262224

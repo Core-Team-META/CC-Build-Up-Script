@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 9223058639537937841
   Name: "Custom Wall - Outer from Craftsman Wall 03"
   PlatformAssetType: 13

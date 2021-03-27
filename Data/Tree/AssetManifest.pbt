@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 18405513137474178300
   Name: "Roof Metal 01"
   PlatformAssetType: 2

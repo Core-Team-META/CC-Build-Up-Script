@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 3970827473911550658
   Name: "Buildup Script v2"
   PlatformAssetType: 5

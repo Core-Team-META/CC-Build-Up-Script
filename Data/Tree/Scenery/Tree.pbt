@@ -1,4 +1,4 @@
-﻿Name: "Scenery"
+Name: "Scenery"
 RootId: 15721658923682352833
 Objects {
   Id: 14982843161775482339

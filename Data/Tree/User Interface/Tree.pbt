@@ -1,4 +1,4 @@
-﻿Name: "User Interface"
+Name: "User Interface"
 RootId: 11367646586856977032
 Objects {
   Id: 16838762091188105191

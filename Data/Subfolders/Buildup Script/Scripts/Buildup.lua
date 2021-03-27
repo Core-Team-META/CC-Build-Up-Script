@@ -1,4 +1,4 @@
-﻿--[[
+--[[
 
 BUILD UP SCRIPT 2.0
 This component hides a complex object and animates it back to original form, piece by piece.

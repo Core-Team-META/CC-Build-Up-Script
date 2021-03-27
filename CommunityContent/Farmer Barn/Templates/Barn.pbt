@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 7807178861878164148
   Name: "Barn"
   PlatformAssetType: 5

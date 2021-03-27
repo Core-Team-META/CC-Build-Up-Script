@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 909797456831990370
   Name: "Farmer Barn"
   PlatformAssetType: 5

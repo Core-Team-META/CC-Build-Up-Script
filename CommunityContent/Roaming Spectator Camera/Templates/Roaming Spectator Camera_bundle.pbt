@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 11346044640234403894
   Name: "Roaming Spectator Camera"
   PlatformAssetType: 5

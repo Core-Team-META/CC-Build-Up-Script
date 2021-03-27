@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 3129332243809642050
   Name: "README_RoamingCamera"
   PlatformAssetType: 3

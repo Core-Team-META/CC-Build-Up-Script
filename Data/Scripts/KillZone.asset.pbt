@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 5321318700814843422
   Name: "KillZone"
   PlatformAssetType: 3

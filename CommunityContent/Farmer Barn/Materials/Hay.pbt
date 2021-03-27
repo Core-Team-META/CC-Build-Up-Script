@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 3038608027924674919
   Name: "Hay"
   PlatformAssetType: 13

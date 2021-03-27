@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 5847776112276880163
   Name: "Custom Metal Iron Rusted 02"
   PlatformAssetType: 13

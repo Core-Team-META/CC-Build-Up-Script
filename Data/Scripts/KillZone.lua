@@ -1,4 +1,4 @@
-﻿-- KillZoneServer.lua
+-- KillZoneServer.lua
 -- Kills any player that enters this component
 -- Created by Nicholas Foreman (https://www.coregames.com/user/f9df3457225741c89209f6d484d0eba8)
 

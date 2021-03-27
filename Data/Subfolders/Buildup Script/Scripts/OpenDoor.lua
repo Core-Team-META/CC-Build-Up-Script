@@ -1,4 +1,4 @@
-﻿ 
+ 
 local openTrigger = script:GetCustomProperty("OpenTrigger"):WaitForObject()
 local door = script:GetCustomProperty("Door"):WaitForObject()
 

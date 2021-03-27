@@ -1,4 +1,4 @@
-﻿Name: "Scripts"
+Name: "Scripts"
 RootId: 5468045072130652745
 Objects {
   Id: 7862290709962302190

@@ -1,4 +1,4 @@
-﻿--[[
+--[[
 
 	Project Hierarchy Template - README
 	1.0.0 - October 15, 2020

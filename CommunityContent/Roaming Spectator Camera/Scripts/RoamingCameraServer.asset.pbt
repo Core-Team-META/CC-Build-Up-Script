@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 14818867503213126263
   Name: "RoamingCameraServer"
   PlatformAssetType: 3

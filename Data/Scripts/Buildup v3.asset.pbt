@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 6516749711638114866
   Name: "Buildup v3"
   PlatformAssetType: 3

@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 14910572264504803256
   Name: "GlowingCoals"
   PlatformAssetType: 13

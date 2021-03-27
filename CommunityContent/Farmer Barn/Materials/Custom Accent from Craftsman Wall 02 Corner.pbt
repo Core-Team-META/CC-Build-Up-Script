@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 6857580889847334280
   Name: "Custom Accent from Craftsman Wall 02 Corner"
   PlatformAssetType: 13

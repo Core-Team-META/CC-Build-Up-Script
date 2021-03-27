@@ -1,4 +1,4 @@
-﻿Name: "Server Settings"
+Name: "Server Settings"
 RootId: 9845989521081853294
 Objects {
   Id: 17497218356279070500

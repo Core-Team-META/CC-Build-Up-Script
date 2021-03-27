@@ -1,4 +1,4 @@
-﻿Name: "Components"
+Name: "Components"
 RootId: 13166939408216695751
 Objects {
   Id: 17595719174612773602

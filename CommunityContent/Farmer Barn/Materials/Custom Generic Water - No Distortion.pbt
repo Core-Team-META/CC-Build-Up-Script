@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 8691898299525278415
   Name: "Custom Generic Water - No Distortion"
   PlatformAssetType: 13

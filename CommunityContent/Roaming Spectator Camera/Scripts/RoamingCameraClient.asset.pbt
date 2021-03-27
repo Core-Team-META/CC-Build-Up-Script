@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 17836162460418018515
   Name: "RoamingCameraClient"
   PlatformAssetType: 3

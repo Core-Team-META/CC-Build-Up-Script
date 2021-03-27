@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 4205132421323002446
   Name: "Ease3D"
   PlatformAssetType: 3

@@ -1,4 +1,4 @@
-﻿Name: "Lighting"
+Name: "Lighting"
 RootId: 15126207785216231226
 Objects {
   Id: 1576509077684016403
